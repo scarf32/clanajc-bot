@@ -18,4 +18,4 @@ async def on_ready():
   print("클쟝머신:",client.user.name,"클쟝머신#2273:",client.user.id,"1.0.0:",discord.__version__)
 
 
-client.run(os.environ['Nzg0MzUxMDg4ODQ0MzQxMjQ4.X8oB4A.58cXBgfzN93DsBKPhDn2HkDpN1M'])
+client.run(os.environ['Nzg0MzUxMDg4ODQ0MzQxMjQ4.X8oB4A.8k1o9J60HXcXS-15Ox_z5Dw6LAA'])
